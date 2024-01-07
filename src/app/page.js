@@ -2,6 +2,7 @@ import Counter from "@/components/Counter/Counter";
 import React from "react";
 
 const HomePage = () => {
+  // throw new Error();
   return (
     <div>
       <h1>This is the home page</h1>
